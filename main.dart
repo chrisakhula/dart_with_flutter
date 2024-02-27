@@ -15,4 +15,10 @@ void main() {
     print("Height is $height");
     print("Married status is $isMarried");
 
+    // you can also declare a variable without assingning value to it
+    var x;
+    x = 20
+
+    print(x);
+
 }
