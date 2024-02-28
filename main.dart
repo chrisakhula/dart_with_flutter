@@ -51,5 +51,16 @@ void main() {
 
     print(fam);
 
+    // creating a map with the string keys and int values (Map)
+    Map<String, int> ages = {
+      'Beatrice' : 36,
+      'Judy': 34,
+      'Ken': 29,
+    };
+    print("Ages of students: $ages");
+
+    
+
+
 
 }
