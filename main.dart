@@ -59,7 +59,10 @@ void main() {
     };
     print("Ages of students: $ages");
 
+    // define a string with runes
+    String runesString = "Runes in Dart: \u{1F600} \u{1F64B} \u{1F680}";
     
+    print(runesString);
 
 
 
